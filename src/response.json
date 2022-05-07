@@ -1,0 +1,681 @@
+{
+  "hits": [
+    {
+      "created_at": "2022-04-23T13:37:38.000Z",
+      "title": "$34M permanently locked into AkuDreams contract forever due to bad code",
+      "url": "https://twitter.com/0xfoobar/status/1517680400142716929",
+      "author": "donohoe",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1650721058,
+      "_tags": ["story", "author_donohoe", "story_31134154"],
+      "objectID": "31134154",
+      "_highlightResult": {
+        "title": {
+          "value": "$34M permanently locked into AkuDreams contract forever due to bad code",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://twitter.com/0xfoobar/status/1517680400142716929",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "donohoe",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2022-04-23T13:36:35.000Z",
+      "title": "Hackers are exploiting 0-days more than ever",
+      "url": "https://www.wired.com/story/zero-day-exploits-vulnerabilities-google-mandiant/",
+      "author": "takiwatanga",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1650720995,
+      "_tags": ["story", "author_takiwatanga", "story_31134146"],
+      "objectID": "31134146",
+      "_highlightResult": {
+        "title": {
+          "value": "Hackers are exploiting 0-days more than ever",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://www.wired.com/story/zero-day-exploits-vulnerabilities-google-mandiant/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "takiwatanga",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2022-04-23T13:36:21.000Z",
+      "title": "Writing from a Software Developer's Perspective",
+      "url": "https://lackofimagination.org/2022/04/writing-from-a-software-developers-perspective/",
+      "author": "customizable",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1650720981,
+      "_tags": ["story", "author_customizable", "story_31134145"],
+      "objectID": "31134145",
+      "_highlightResult": {
+        "title": {
+          "value": "Writing from a Software Developer's Perspective",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://lackofimagination.org/2022/04/writing-from-a-software-developers-perspective/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "customizable",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2022-04-23T13:34:53.000Z",
+      "title": "Inconvenient Truths about Sqrt(2)",
+      "url": "https://www.youtube.com/watch?v=REeaT2mWj6Y",
+      "author": "agomez314",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1650720893,
+      "_tags": ["story", "author_agomez314", "story_31134130"],
+      "objectID": "31134130",
+      "_highlightResult": {
+        "title": {
+          "value": "Inconvenient Truths about Sqrt(2)",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://www.youtube.com/watch?v=REeaT2mWj6Y",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "agomez314",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2022-04-23T13:34:52.000Z",
+      "title": "Disinformation and Fooled by Randomness – Nassim Taleb",
+      "url": "https://www.youtube.com/watch?v=T3ScFshhhnU",
+      "author": "LichenStone",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1650720892,
+      "_tags": ["story", "author_LichenStone", "story_31134126"],
+      "objectID": "31134126",
+      "_highlightResult": {
+        "title": {
+          "value": "Disinformation and Fooled by Randomness – Nassim Taleb",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://www.youtube.com/watch?v=T3ScFshhhnU",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "LichenStone",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2022-04-23T13:34:32.000Z",
+      "title": "DevOps for the Sinclair Spectrum",
+      "url": "http://www.markround.com/blog/2021/12/21/devops-for-the-sinclair-spectrum-part-1/",
+      "author": "nickt",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1650720872,
+      "_tags": ["story", "author_nickt", "story_31134121"],
+      "objectID": "31134121",
+      "_highlightResult": {
+        "title": {
+          "value": "DevOps for the Sinclair Spectrum",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "http://www.markround.com/blog/2021/12/21/devops-for-the-sinclair-spectrum-part-1/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": { "value": "nickt", "matchLevel": "none", "matchedWords": [] }
+      }
+    },
+    {
+      "created_at": "2022-04-23T13:34:02.000Z",
+      "title": "Generate SHA256 Hash in Bash and Python",
+      "url": "https://hackernoon.com/cryptographic-hash-functions-in-blockchain-with-bash-and-python-code",
+      "author": "in-progress",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1650720842,
+      "_tags": ["story", "author_in-progress", "story_31134115"],
+      "objectID": "31134115",
+      "_highlightResult": {
+        "title": {
+          "value": "Generate SHA256 Hash in Bash and Python",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://hackernoon.com/cryptographic-hash-functions-in-blockchain-with-bash-and-python-code",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "in-progress",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2022-04-23T13:33:51.000Z",
+      "title": "The Squeaky Wheel",
+      "url": "https://www.numbers-stations.com/russia/the-squeaky-wheel/",
+      "author": "f38zf5vdt",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1650720831,
+      "_tags": ["story", "author_f38zf5vdt", "story_31134111"],
+      "objectID": "31134111",
+      "_highlightResult": {
+        "title": {
+          "value": "The Squeaky Wheel",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://www.numbers-stations.com/russia/the-squeaky-wheel/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "f38zf5vdt",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2022-04-23T13:28:21.000Z",
+      "title": "I stopped working on black hole information loss. Here’s why",
+      "url": "http://backreaction.blogspot.com/2022/04/i-stopped-working-on-black-hole.html",
+      "author": "nsoonhui",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1650720501,
+      "_tags": ["story", "author_nsoonhui", "story_31134074"],
+      "objectID": "31134074",
+      "_highlightResult": {
+        "title": {
+          "value": "I stopped working on black hole information loss. Here’s why",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "http://backreaction.blogspot.com/2022/04/i-stopped-working-on-black-hole.html",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "nsoonhui",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2022-04-23T13:27:29.000Z",
+      "title": "Bongo Cat Typing",
+      "url": "https://chrome.google.com/webstore/detail/bongo-cat-typing/nejbhaabfihgocbacojonoekogiklfja",
+      "author": "rasmero",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1650720449,
+      "_tags": ["story", "author_rasmero", "story_31134065"],
+      "objectID": "31134065",
+      "_highlightResult": {
+        "title": {
+          "value": "Bongo Cat Typing",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://chrome.google.com/webstore/detail/bongo-cat-typing/nejbhaabfihgocbacojonoekogiklfja",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "rasmero",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2022-04-23T13:21:21.000Z",
+      "title": "GDPR Fines: The Biggest Privacy Sanctions Handed Out So Far",
+      "url": "https://www.cnet.com/tech/gdpr-fines-the-biggest-privacy-sanctions-handed-out-so-far/",
+      "author": "bryanrasmussen",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1650720081,
+      "_tags": ["story", "author_bryanrasmussen", "story_31134025"],
+      "objectID": "31134025",
+      "_highlightResult": {
+        "title": {
+          "value": "GDPR Fines: The Biggest Privacy Sanctions Handed Out So Far",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://www.cnet.com/tech/gdpr-fines-the-biggest-privacy-sanctions-handed-out-so-far/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "bryanrasmussen",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2022-04-23T13:16:04.000Z",
+      "title": "NASA beamed holographic doctors to the International Space Station",
+      "url": "https://www.techspot.com/news/94298-nasa-beamed-holographic-doctors-international-space-station.html",
+      "author": "justemre",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1650719764,
+      "_tags": ["story", "author_justemre", "story_31133991"],
+      "objectID": "31133991",
+      "_highlightResult": {
+        "title": {
+          "value": "NASA beamed holographic doctors to the International Space Station",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://www.techspot.com/news/94298-nasa-beamed-holographic-doctors-international-space-station.html",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "justemre",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2022-04-23T13:15:55.000Z",
+      "title": "Asking a theoretical physicist about the physics of consciousness",
+      "url": "https://www.youtube.com/watch?v=Qi9ys2j1ncg",
+      "author": "cft",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1650719755,
+      "_tags": ["story", "author_cft", "story_31133988"],
+      "objectID": "31133988",
+      "_highlightResult": {
+        "title": {
+          "value": "Asking a theoretical physicist about the physics of consciousness",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://www.youtube.com/watch?v=Qi9ys2j1ncg",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": { "value": "cft", "matchLevel": "none", "matchedWords": [] }
+      }
+    },
+    {
+      "created_at": "2022-04-23T13:15:46.000Z",
+      "title": "Man who never wanted to ride in fighter jet accidentally ejects himself",
+      "url": "https://www.mercurynews.com/2020/04/13/man-who-never-wanted-to-ride-in-fighter-jet-accidentally-ejects-himself/",
+      "author": "dwighttk",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1650719746,
+      "_tags": ["story", "author_dwighttk", "story_31133986"],
+      "objectID": "31133986",
+      "_highlightResult": {
+        "title": {
+          "value": "Man who never wanted to ride in fighter jet accidentally ejects himself",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://www.mercurynews.com/2020/04/13/man-who-never-wanted-to-ride-in-fighter-jet-accidentally-ejects-himself/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "dwighttk",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2022-04-23T13:12:17.000Z",
+      "title": "Ozarks Technical Community College robbed of nearly $900k",
+      "url": "https://www.bransontrilakesnews.com/news/local/article_0a6f60d4-c25a-11ec-9270-1b30a93475bc.html",
+      "author": "oblib",
+      "points": 2,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1650719537,
+      "_tags": ["story", "author_oblib", "story_31133963"],
+      "objectID": "31133963",
+      "_highlightResult": {
+        "title": {
+          "value": "Ozarks Technical Community College robbed of nearly $900k",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://www.bransontrilakesnews.com/news/local/article_0a6f60d4-c25a-11ec-9270-1b30a93475bc.html",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": { "value": "oblib", "matchLevel": "none", "matchedWords": [] }
+      }
+    },
+    {
+      "created_at": "2022-04-23T13:11:49.000Z",
+      "title": "Ask HN: How many domain names did you park and what have you spent on them?",
+      "url": null,
+      "author": "berkeshire",
+      "points": 1,
+      "story_text": "How many domain names did you park for startup ideas in the future? ... and what have you spent on renewing those domains over the years \u0026#x2F; decades?\u003cp\u003eI will start - I have had up to 20 domains at some point, over the last 22 years ... pared them down to 3 now.\u003cp\u003eWould have spent upwards of $2000 on renewals over these years.",
+      "comment_text": null,
+      "num_comments": 1,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1650719509,
+      "_tags": ["story", "author_berkeshire", "story_31133956", "ask_hn"],
+      "objectID": "31133956",
+      "_highlightResult": {
+        "title": {
+          "value": "Ask HN: How many domain names did you park and what have you spent on them?",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "berkeshire",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_text": {
+          "value": "How many domain names did you park for startup ideas in the future? ... and what have you spent on renewing those domains over the years / decades?\u003cp\u003eI will start - I have had up to 20 domains at some point, over the last 22 years ... pared them down to 3 now.\u003cp\u003eWould have spent upwards of $2000 on renewals over these years.",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2022-04-23T13:11:02.000Z",
+      "title": "Overconsumption, explained",
+      "url": "https://www.popsci.com/environment/overconsumption-sustainability-climate/",
+      "author": "colinprince",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1650719462,
+      "_tags": ["story", "author_colinprince", "story_31133945"],
+      "objectID": "31133945",
+      "_highlightResult": {
+        "title": {
+          "value": "Overconsumption, explained",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://www.popsci.com/environment/overconsumption-sustainability-climate/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "colinprince",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2022-04-23T13:01:51.000Z",
+      "title": "Don't believe Obama's Big Tech criti-hype",
+      "url": "https://pluralistic.net/2022/04/22/mesmer-2-point-oh/#thanks-obama",
+      "author": "samizdis",
+      "points": 4,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1650718911,
+      "_tags": ["story", "author_samizdis", "story_31133875"],
+      "objectID": "31133875",
+      "_highlightResult": {
+        "title": {
+          "value": "Don't believe Obama's Big Tech criti-hype",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://pluralistic.net/2022/04/22/mesmer-2-point-oh/#thanks-obama",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "samizdis",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2022-04-23T13:00:52.000Z",
+      "title": "Recreating early daguerreotype photographs gave us a window to the past",
+      "url": "https://theconversation.com/remaking-history-how-recreating-early-daguerreotype-photographs-gave-us-a-window-to-the-past-175913",
+      "author": "bryanrasmussen",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1650718852,
+      "_tags": ["story", "author_bryanrasmussen", "story_31133866"],
+      "objectID": "31133866",
+      "_highlightResult": {
+        "title": {
+          "value": "Recreating early daguerreotype photographs gave us a window to the past",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://theconversation.com/remaking-history-how-recreating-early-daguerreotype-photographs-gave-us-a-window-to-the-past-175913",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "bryanrasmussen",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2022-04-23T12:55:37.000Z",
+      "title": "The Sound of Sorting – “Audibilization” and Visualization of Sorting Algorithms",
+      "url": "https://panthema.net/2013/sound-of-sorting/",
+      "author": "RafelMri",
+      "points": 2,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1650718537,
+      "_tags": ["story", "author_RafelMri", "story_31133837"],
+      "objectID": "31133837",
+      "_highlightResult": {
+        "title": {
+          "value": "The Sound of Sorting – “Audibilization” and Visualization of Sorting Algorithms",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://panthema.net/2013/sound-of-sorting/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "RafelMri",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    }
+  ],
+  "nbHits": 2054035,
+  "page": 0,
+  "nbPages": 50,
+  "hitsPerPage": 20,
+  "exhaustiveNbHits": false,
+  "exhaustiveTypo": true,
+  "query": "",
+  "params": "advancedSyntax=true\u0026analytics=true\u0026analyticsTags=backend\u0026tags=story",
+  "processingTimeMS": 2
+}

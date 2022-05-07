@@ -1,0 +1,189 @@
+    * {
+        max-width: 1000px;
+        margin: 0 auto;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: Verdana, Geneva, sans-serif;
+    }
+    
+    body {
+        width: 90%;
+        margin: 0 auto;
+    }
+    
+    a {
+        color: #000;
+        text-decoration: none;
+        cursor: pointer;
+    }
+    
+    p {
+        font-size: 14px;
+        padding: .1em 0;
+    }
+    
+    header {
+        background-color: #ff6600;
+        margin: 8px 0;
+    }
+    
+    .App-header {
+        height: 22px;
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+    
+    li {
+        display: flex;
+        font-size: 12px;
+        list-style-type: none;
+        text-indent: 8px;
+    }
+    
+    form {
+        font-size: 12px;
+        color: #828282;
+    }
+    
+    .logoBlock {
+        display: flex;
+        min-width: 126px;
+    }
+    
+    .navLinsBlock {
+        display: flex;
+        justify-content: space-between;
+        width: 85%;
+        margin: 0 auto;
+    }
+    
+    .loginLink {
+        font-size: .9em;
+        margin: 1.5px;
+    }
+    
+    .newsContainer {
+        display: flex;
+        flex-direction: row;
+        line-height: 0.5;
+        margin: 10px;
+    }
+    
+    .index {
+        margin: 3px;
+        color: #828282;
+        font-size: 14px;
+    }
+    
+    .App {
+        text-align: left;
+        background-color: #f7f7ef;
+    }
+    
+    .Navbar {
+        display: flex;
+        justify-content: space-between;
+        list-style-type: none;
+        align-items: center;
+        margin: 0;
+    }
+    
+    .Navbar a {
+        font-size: 1.1em;
+    }
+    
+    .logo {
+        width: 18px;
+        height: 18px;
+        border: 1px solid white;
+        margin: auto;
+    }
+    
+    .Error-Message {
+        font-size: 1.2em;
+        padding: 8em 13em;
+    }
+    
+    .Hacker-news {
+        font-weight: bold;
+        font-size: 14px;
+        margin: 2px 0 0 5px;
+    }
+    
+    .News-post {
+        padding: 2em;
+        text-align: left;
+        font-family: Verdana, Geneva, sans-serif;
+        color: #828282;
+    }
+    
+    .votearrow {
+        width: 100px;
+        height: 10px;
+        border: 0px;
+        margin: 3px 2px 6px;
+        color: #828282;
+    }
+    
+    .newsSource {
+        margin-left: 3px;
+    }
+    
+    .datarow {
+        color: #5b5b5b;
+        font-size: 9px;
+    }
+    
+    .newsBlock {
+        width: 95%;
+    }
+    
+    .upvote {
+        width: 2%;
+    }
+    
+    .AppFooter {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        background-color: #f7f7ef;
+        list-style-type: none;
+        margin-top: 2em;
+        height: 120px;
+        border-top: 2px solid #ff6600;
+    }
+    
+    .FooterList {
+        list-style-type: none;
+        text-align: center;
+        justify-content: space-around;
+        display: flex;
+    }
+    
+    .footerNotice {
+        margin-top: .6em;
+        padding: .8em 0
+    }
+    
+    .FooterLinks {
+        font-size: 9px;
+        list-style-type: none;
+        text-indent: 10px;
+        margin-top: 1em;
+    }
+    
+    .Form {
+        padding: 1em;
+    }
+    
+    .loader {
+        position: fixed;
+        top: 20%;
+        left: calc(50% - 35px);
+    }
+    
+    .btn-load-more {
+        margin: 15px;
+    }
