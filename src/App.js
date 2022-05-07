@@ -31,7 +31,7 @@ function App() {
   };
 
   useEffect(() => {
-    const url = new URL("http://hn.algolia.com/api/v1/search_by_date");
+    const url = new URL("https://hn.algolia.com/api/v1/search_by_date");
     url.searchParams.set("tags", "story");
     query && url.searchParams.set("query", query);
     newsPrePage && url.searchParams.set("hitsPerPage", newsPrePage);
