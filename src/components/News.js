@@ -7,7 +7,7 @@ function News({ newsPost, index }) {
   // 1. Do the calculations manually between the timestamp and Date.now() ❌
   // 2. Delegate a part of the calculation to a library: date-fns; still with some manual calculations: https://date-fns.org/v2.28.0/docs/differenceInMinutes 🌈
   // 3. Delegate the whole thing to the library: no manual calculations: date-fns: https://date-fns.org/v2.28.0/docs/formatDistanceToNow ✅
-  // 4. There's probably someone who created an npm package for that for react:  https://www.npmjs.com/package/react-timeago 🦄
+  // 4. There's probably someone who created an npm package for that  for react:  https://www.npmjs.com/package/react-timeago 🦄
 
   return (
     <div className="newsContainer">
